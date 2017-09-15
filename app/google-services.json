@@ -67,6 +67,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1006792186370-7ng1mkfkfg985ruj3kuab18gt6lk9bgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kim.mobilestudio_laundry",
+            "certificate_hash": "6d0c8ae24f19e2677f0bc6ec931bc8412344d3fa"
+          }
+        },
+        {
           "client_id": "1006792186370-pem6ai8sf7akbbpkee43gun7vvbt01o2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
